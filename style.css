@@ -1,0 +1,26 @@
+h3 {
+  display: flex;
+  align-items: center;
+  height: 13em;
+  width: 8.75em;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1em;
+  padding: 2em;
+  color: rgb(209, 28, 28);
+  border-radius: 15px;
+  border-right: 1px solid rgb(209, 28, 28);
+  border-left: 1px solid rgb(209, 28, 28);
+  border-top: 10px solid rgb(209, 28, 28);
+  border-bottom: 10px solid rgb(209, 28, 28);
+  background-color: rgba(235, 234, 212, 0.972);
+  box-shadow: rgba(116, 115, 91, 0.829) 5px 5px 5px;
+  margin: 1em;
+}
+
+body {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://www.greatrace.com.au/wordpress/wp-content/uploads/2016/11/cluedo3.png");
+}
